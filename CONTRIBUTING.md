@@ -35,7 +35,7 @@ Submit via: Pull request to `configs/` directory
 **Responsible disclosure process:**
 
 1. **For active vulnerabilities:**
-   - Email: security@innergintel.ai (placeholder)
+   - Email: innergclaw@gmail.com
    - Do NOT open public issues
    - Allow 30 days for remediation
 
@@ -186,7 +186,7 @@ Before submitting:
 ## 💬 Questions?
 
 - **General:** Open a GitHub Discussion
-- **Security sensitive:** Email security@innergintel.ai
+- **Security sensitive:** Email innergclaw@gmail.com
 - **Direct:** Reach out to @InnerGClaw
 
 ---
